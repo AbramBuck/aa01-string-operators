@@ -4,8 +4,8 @@ version of that string.
 */
 
 // Your code here 
-function yell(string){
-let string = submittedString;
+function yell(sentence){
+let sentence = submittedString;
 return (submittedString.toUpperCase() + "!!!");
 }
 // console.log(yell("I want to go to the store")); // "I WANT TO GO TO THE STORE!!!"
