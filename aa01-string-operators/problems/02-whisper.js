@@ -4,7 +4,9 @@ Define a function whisper that takes in a string parameter and returns a
 */
 
 // Your code here 
-
+function whisper(whisperedString) {
+ return ("..." + whisperedString.toLowerCase() + "...");
+}
 // console.log(whisper("Hey Buddy")); // "...hey buddy..."
 // console.log(whisper("YEA! that was FUN")); // "...yea! that was fun..."
 
